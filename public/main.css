@@ -1,0 +1,4 @@
+.btn:not(.btn-primary):not(.btn-success):not(.btn-danger) {
+	background-color: rgb(0,38,58);
+	color: cyan;
+}
